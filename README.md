@@ -1,5 +1,4 @@
-# VariantFilteringCriteriaVvTempranillo
-List of the filtering criteria of the variants called in 53 samples of *Vitis vinifera* cv. Tempranillo
+# List of the filtering criteria of the variants called in 53 samples of *Vitis vinifera* cv. Tempranillo
 
 A list of the filtering criteria described in this and the following sections and the number of variants produced in each step is provided in the file **Stats_vcf_versions_v71_v71c_20221005.xlsx**.  
 
