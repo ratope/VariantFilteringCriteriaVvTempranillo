@@ -1,6 +1,6 @@
 # Filtering criteria of the variants called in 53 samples of *Vitis vinifera* cv. Tempranillo
 
-This is the list of the criteria applied to the raw list of variants obtained from the variant calling with `freebayes`. The list of criteria depicted here is also and the number of variants produced in each step is provided in the file **Stats_vcf_versions_v71_v71c_20221005.xlsx**.  
+This is the list of the criteria applied to the raw list of variants obtained from the variant calling with `freebayes`. The list of criteria depicted here and the number of variants produced in each step is also provided in the file **Stats_vcf_versions_v71_v71c_20221005.xlsx**.  
 
 The following filtering steps were done:
 
