@@ -70,8 +70,10 @@ The following filtering steps were done:
   GenMap ([Pockrandt et al., 2020](https://academic.oup.com/bioinformatics/article/36/12/3687/5815974)) was used to compute mappability (uniqueness) across the Benedicto-inherited haplophase sequence of the Tempranillo genome assembly. A  BED file of high mappability assembly segments (Mappability >= 0.5) was produced and variants overlapping with it were kept
   User provided BED files of high mappability regions:  
   - **GTEp0.5**: GenMap Mappability P-value >= 0.5
+    
   Variants were filtered using:  
   `bedtools intersect -a <prefiltered_multi_vcf> -b <HighMappabiltiy_BED> -wa -header`.  
+
   Statistics were obtained using `RTG-Tools (vcfstats)` and `bcftools stats`.
 
 ---
